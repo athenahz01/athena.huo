@@ -56,6 +56,7 @@ Lead with Athena.ai (résumé-based founder story) and Whetstone (résumé-based
 
 ## Design and behavior
 
-Cold paper, cobalt ink, yellow accent. Barlow Condensed for the name, Manrope for body copy, Instrument Serif for the personal voice. A portrait lens introduces the dual identity; role-based project tabs make it practical for recruiting. Case-study dialogs carry context and evidence. Creative work is secondary, with a direct Instagram route and no unverified social metrics.
+Cold paper, cobalt ink, yellow accent. Barlow Condensed for the name, Manrope for body copy, Instrument Serif for the personal voice. A portrait lens introduces the dual identity; a single selected-work collection keeps the positioning focused on end-to-end product ownership. Project-specific flow diagrams explain the work without dividing Athena into job categories. Case-study dialogs carry context and evidence. Creative work is secondary, with a direct Instagram route and no unverified social metrics.
 
 Original source is in the new athenah directory. Existing portfolio projects were left untouched. No repository document instructions were executed. No private client records are included.
+
