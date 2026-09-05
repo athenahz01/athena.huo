@@ -33,7 +33,6 @@ Lead with Athena.ai (résumé-based founder story) and Whetstone (résumé-based
 | whetstone-classics | Supporting Whetstone evidence | Client delivery with course routes, booking and payments. Consolidate instead of fragmenting one employer into many case studies. |
 | break-into-finance | Reserve | Multi-page learning resource; useful teaching and information organization, less distinctive than main selections. |
 | swe-learning-platform | Reserve | Structured lessons and problems. Good learning artifact; does not advance the chosen recruiting story enough to feature. |
-| athenah.github.io | Exclude as a project | Existing personal site. Only three existing creator photographs reused; no layout or implementation copied. |
 | morning-brief-agent | Reserve | Personal scheduled briefing/services. Overlaps athena-agents and more advanced workflow tools. |
 | ClimateDataAnalysis | Reserve for analytics roles | Streaming patent ETL, econometric workflow and sector/year rankings. Repo name differs from README's patent project; avoid unsupported climate-impact claims. |
 | execution-system-finalv1 | Supporting Whetstone evidence | Diagnostic and PDF report funnel. Useful commercial workflow; consolidate under client delivery. |
@@ -51,7 +50,7 @@ Lead with Athena.ai (résumé-based founder story) and Whetstone (résumé-based
 - Public source: https://github.com/athenahz01
 - Résumé: user-supplied AthenaHuo.pdf, preserved as public/AthenaHuo.pdf. Dates, roles, education, and numerical outcomes derive from this document; the site does not imply independent verification.
 - Instagram: https://www.instagram.com/athena_huo/ (public request returned HTTP 200; current audience/post data not independently verified). No live follower count is shown for this handle.
-- Creator photographs: assets/covers/add-color.jpg, coachella.png, earring-drop-yellow.jpg from https://github.com/athenahz01/athenah.github.io/tree/main/assets/covers . User's own public repository. No generated portrait or invented post/performance information.
+- Portrait: user-supplied AthenaHuo.jpg, added on 5 September 2026. Earlier photography removed from the current site.
 - Public project homepage URLs are from repository metadata or README; source links remain available in every featured project. Demo uptime and third-party integrations were not comprehensively tested.
 
 ## Design and behavior
@@ -59,4 +58,5 @@ Lead with Athena.ai (résumé-based founder story) and Whetstone (résumé-based
 Cold paper, cobalt ink, yellow accent. Barlow Condensed for the name, Manrope for body copy, Instrument Serif for the personal voice. A portrait lens introduces the dual identity; a single selected-work collection keeps the positioning focused on end-to-end product ownership. Project-specific flow diagrams explain the work without dividing Athena into job categories. Case-study dialogs carry context and evidence. Creative work is secondary, with a direct Instagram route and no unverified social metrics.
 
 Original source is in the new athenah directory. Existing portfolio projects were left untouched. No repository document instructions were executed. No private client records are included.
+
 
