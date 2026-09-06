@@ -56,3 +56,5 @@
 @media(max-width:390px){.opening-copy h2{font-size:21px}.opening-composition{gap:7%}.opening-portrait figcaption>em{font-size:15px}.cinema-header nav{gap:12px}.opening-credits{display:grid;grid-template-columns:1fr 1fr}}
 @media(prefers-reduced-motion:reduce){.opening-portrait{transform:none}}html[data-motion=off] .opening-portrait{transform:none}
 .screening-room{scroll-margin-top:22px}.scene-share{flex-basis:100%;text-align:left}.film-jacket:focus-visible{transform:none}.preview-dialog,.project-dialog{letter-spacing:normal}.film-shelf:focus-within{scroll-behavior:auto}
+/* Light opening: silver paper and cobalt, with the portrait as the warm focal point. */
+.cinema-header{background:#eff2f4;color:#182a89;border-bottom-color:#cbd3df}.opening-scene{background:#eff2f4;color:#182a89}.opening-topline,.opening-copy>.eyebrow{color:#566687}.opening-copy h1>span{color:#6476b4}.opening-copy h2 em{color:#77603e}.opening-copy>p{color:#536483}.opening-cta{border-bottom-color:#182a89}.opening-portrait{background:#fafbfe;color:#253252;box-shadow:-8px 22px 55px #2532521c}.opening-credits{color:#273e78;border-color:#cbd3df}.opening-credits small{color:#566687}
