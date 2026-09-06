@@ -9,3 +9,4 @@
 - Keep the opening light; use silver paper and cobalt rather than a dark hero.
 - Display projects through Spool's second-brain graph: colored dots, connected flows, searchable project list, and dot-matched project notes. Do not restore DVD shelves.
 - Overall design baseline is the first GitHub push, commit 3131660: original cobalt/paper hero, portrait slider, and surrounding sections. Only the project-display section uses the second-brain design.
+- The second-brain network floats directly on the original paper background. No cream/butter palette, enclosing application frame, or permanently visible sidebar. Use the portfolio's cobalt and cool accents.
