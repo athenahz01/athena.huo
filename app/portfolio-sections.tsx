@@ -1,8 +1,6 @@
 'use client';
-
-import ParticleStudio from './particle-studio';
-
 import BrainWork from './brain-work';
+import ParticleStudio from './particle-studio';
 import {ArrowUpRight,Download,Camera} from 'lucide-react';
 import {Dialog,DialogTrigger,DialogContent,DialogTitle,DialogDescription} from '@/components/ui/dialog';
 
