@@ -9,7 +9,7 @@ export const projectPreviews:Record<string,Preview>={
  whetstone:{image:'whetstone.png',recording:'whetstone',title:'Whetstone',caption:'Public demo · fictional student data',alt:'Whetstone admissions portal demo with student navigation and planning tools.',url:'https://whetstone-portal-demo.vercel.app'},
  admira:{image:'admira.jpg',title:'Admira',caption:'Public prototype · illustrative sample read',alt:'Admira admissions interface showing a chance range and the limits of its estimates.',url:'https://admira-phi.vercel.app'},
 };
-const explorations:Preview[]=[
+export const explorations:Preview[]=[
  {image:'cornell.jpg',title:'The Hill',caption:'An explorable miniature of Cornell',alt:'The Cornell 3D campus at dusk, with McGraw Tower and paths across the quad.',url:'https://cornell3d.vercel.app'},
  {image:'hype.png',recording:'hype',title:'NYC Hype Index',caption:'Archive demo · prototype figures',alt:'The NYC Hype Index editorial restaurant-discovery interface.',url:'https://github.com/athenahz01/nyc-hype-index'},
  {image:'tripmuse.png',recording:'tripmuse',title:'TripMuse',caption:'Archive demo · travel discovery',alt:'TripMuse travel-discovery homepage with a large scenic image and an explore action.',url:'https://github.com/athenahz01/TripMuse-5151'},

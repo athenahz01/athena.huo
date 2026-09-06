@@ -6,3 +6,5 @@
 - Present one focused body of work rather than filters for different job positions.
 - Preserve the project flow diagrams; Athena specifically likes them.
 - Integrate animation into scrolling and page transitions; avoid standalone animation playgrounds or separate shape controls.
+- Keep the opening light; use silver paper and cobalt rather than a dark hero.
+- Display projects through Spool's second-brain graph: colored dots, connected flows, searchable project list, and dot-matched project notes. Do not restore DVD shelves.
