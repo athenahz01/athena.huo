@@ -23,7 +23,7 @@ export const memberships=[
  {id:'experiment:6',themes:['product','interaction'],reason:'A reading experience with scheduled reminders and source-text retrieval.'},
  {id:'experiment:7',themes:['product','ai','interaction'],reason:'Swipe-based travel discovery and an AI travel assistant.'},
 ];
-export type BrainDot={id:string;label:string;kind:'direction'|'project'|'experiment';accent:string;themes:string[];project?:number;experiment?:number;reason:string;x:number;y:number;fx:number;fy:number;homeX:number;homeY:number};
+export type BrainDot={id:string;label:string;kind:'direction'|'project'|'experiment';accent:string;themes:string[];project?:number;experiment?:number;reason:string;x:number;y:number;fx?:number;fy?:number;homeX:number;homeY:number};
 export type BrainThread={source:string;target:string;association?:boolean;reason:string;accent:string};
 const locations=[[-90,-125],[-300,-5],[-65,50],[-190,60],[130,-85],[245,-50],[20,200],[190,135],[280,220],[280,-150],[-65,-240],[30,-45],[-320,120],[65,110]];
 export function createBrainGraph(){
